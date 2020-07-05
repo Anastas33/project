@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2198d76-ff38-437b-9b9a-eaaba1853596" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/Breadcrumb.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/CartBox.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/Category.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/Feature.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/Nav.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/ProductFeature.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/ProductHome.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/Promo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/Subscribe.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/Top.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/blocks/ButtonAddToCart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/blocks/ButtonDeleteFromCart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/blocks/CartBoxItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/blocks/CartItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/blocks/Logo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/blocks/ProductItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/top/blocks/SocialLinks.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/db/cartItems.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/db/productItems.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/views/Cart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/views/Product.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/src/views/Products.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/views/Home.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/myproject/src/jsons/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/myproject" />
+  </component>
+  <component name="ProjectId" id="1cfrRapUf9mLFZRiTzpaf13igr2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2198d76-ff38-437b-9b9a-eaaba1853596" name="Default Changelist" comment="" />
+      <created>1590930481914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590930481914</updated>
+      <workItem from="1590930483021" duration="8159000" />
+      <workItem from="1591102322399" duration="4816000" />
+      <workItem from="1591275569678" duration="8513000" />
+      <workItem from="1591534572531" duration="8475000" />
+      <workItem from="1591616556271" duration="4867000" />
+      <workItem from="1591626525119" duration="2245000" />
+      <workItem from="1591668605006" duration="4085000" />
+      <workItem from="1591707925896" duration="617000" />
+      <workItem from="1591883212122" duration="7965000" />
+      <workItem from="1592134850429" duration="10758000" />
+      <workItem from="1592223920332" duration="5319000" />
+      <workItem from="1592315459669" duration="645000" />
+      <workItem from="1592483014438" duration="56000" />
+      <workItem from="1592483101725" duration="11282000" />
+      <workItem from="1592750878870" duration="2650000" />
+      <workItem from="1592827331888" duration="15280000" />
+      <workItem from="1592916435144" duration="7990000" />
+      <workItem from="1592924451125" duration="4000" />
+      <workItem from="1593091430659" duration="4817000" />
+      <workItem from="1593096668798" duration="2147000" />
+      <workItem from="1593954697105" duration="1128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="216" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591277239320">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="521" y="216" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591277239320" />
+    <state x="841" y="373" width="585" height="534" key="find.popup" timestamp="1590939095384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="841" y="373" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590939095384" />
+    <state x="889" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1591542195553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="889" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591542195553" />
+  </component>
+</project>
