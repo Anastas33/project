@@ -19,7 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2198d76-ff38-437b-9b9a-eaaba1853596" name="Default Changelist" comment="first commit" />
+    <list default="true" id="c2198d76-ff38-437b-9b9a-eaaba1853596" name="Default Changelist" comment="second">
+      <change afterPath="$PROJECT_DIR$/myproject/src/components/footer/Footer.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/components/top/CartBox.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/components/top/CartBox.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/components/top/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/components/top/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/components/top/ProductHome.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/components/top/ProductHome.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/components/top/blocks/CartItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/components/top/blocks/CartItem.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/db/cartItems.json" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/db/cartItems.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/db/productItems.json" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/db/productItems.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/styles/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/views/Cart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/views/Cart.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/src/views/Products.vue" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/src/views/Products.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +101,12 @@
       <workItem from="1592924451125" duration="4000" />
       <workItem from="1593091430659" duration="4817000" />
       <workItem from="1593096668798" duration="2147000" />
-      <workItem from="1593954697105" duration="1706000" />
+      <workItem from="1593954697105" duration="11006000" />
+      <workItem from="1594386532401" duration="5918000" />
+      <workItem from="1594472445215" duration="7163000" />
+      <workItem from="1594554929570" duration="1232000" />
+      <workItem from="1595335118334" duration="312000" />
+      <workItem from="1595336257950" duration="2222000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1593955995776</created>
@@ -102,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593956368148</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="second">
+      <created>1593956563162</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593956563162</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,13 +149,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="840" y="269" key="Vcs.Push.Dialog.v2" timestamp="1593956388905">
+    <state x="840" y="269" key="Vcs.Push.Dialog.v2" timestamp="1593956568743">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="840" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593956388905" />
+    <state x="840" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593956568743" />
     <state x="521" y="216" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591277239320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
